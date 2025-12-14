@@ -20,3 +20,15 @@ Roughly ~45 mins.
 Read through Chapter 3 and ending at <b>3.3.2</b> (Moving Containers). Covered more about classes, specifically concrete classes, abstract classes, containers, abstract types, virtual functions, class hierarchies, copy constructor and copy assignment operators.
 
 ~45 mins.
+
+<b>Session 4</b>: 10:00pm
+Finished up Chapter 3. Covered templates, interfaces and more about moving.
+
+~30 mins.
+
+# Day 2 - 12/14/25
+<b>Session 1</b>: 9am
+
+Finished Chapter 4, 5 (end of Tour of C++), and 6 (start of part 2 of the book). Overviewed various containers (vectors, maps), algorithms (sort), iterators, shared/unique pointers, concurrency in Chapters 4 and 5. In Chapter 6, reviewed types and declarations to include initializer lists (why they're preferred and when not to use them, ie. with auto), auto and decltype(), scope, and basic overview of basic types to including integral, arithmetic, and user-defined types.
+
+4hrs 10min.
