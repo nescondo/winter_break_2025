@@ -32,3 +32,9 @@ Finished up Chapter 3. Covered templates, interfaces and more about moving.
 Finished Chapter 4, 5 (end of Tour of C++), and 6 (start of part 2 of the book). Overviewed various containers (vectors, maps), algorithms (sort), iterators, shared/unique pointers, concurrency in Chapters 4 and 5. In Chapter 6, reviewed types and declarations to include initializer lists (why they're preferred and when not to use them, ie. with auto), auto and decltype(), scope, and basic overview of basic types to including integral, arithmetic, and user-defined types.
 
 4hrs 10min.
+
+<b>Session 2</b>: 3:15pm
+
+Finished Chapter 7 which went over pointers, arrays, and references. Maybe a good idea to review references, lvalues, rvalues, and even pointers to practice.
+
+1hr 14mins.
