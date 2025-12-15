@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nesco\\OneDrive\\Desktop\\winter_break_2025\\first_opengl_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBB5BD-781F-43BF-AE1B-FEF8ABC7BFC6}|first_opengl_app\\first_opengl_app.vcxproj|C:\\Users\\nesco\\OneDrive\\Desktop\\winter_break_2025\\first_opengl_app\\first_opengl_app\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDDBB5BD-781F-43BF-AE1B-FEF8ABC7BFC6}|first_opengl_app\\first_opengl_app.vcxproj|solutionrelative:first_opengl_app\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBB5BD-781F-43BF-AE1B-FEF8ABC7BFC6}|first_opengl_app\\first_opengl_app.vcxproj|C:\\Users\\nesco\\OneDrive\\Desktop\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\Users\\nesco\\OneDrive\\Desktop\\glad.c",
+              "RelativeDocumentMoniker": "..\\..\\glad.c",
+              "ToolTip": "C:\\Users\\nesco\\OneDrive\\Desktop\\glad.c",
+              "RelativeToolTip": "..\\..\\glad.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-15T03:43:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\nesco\\OneDrive\\Desktop\\winter_break_2025\\first_opengl_app\\first_opengl_app\\Source.cpp",
+              "RelativeDocumentMoniker": "first_opengl_app\\Source.cpp",
+              "ToolTip": "C:\\Users\\nesco\\OneDrive\\Desktop\\winter_break_2025\\first_opengl_app\\first_opengl_app\\Source.cpp",
+              "RelativeToolTip": "first_opengl_app\\Source.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T03:43:16.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

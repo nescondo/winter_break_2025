@@ -38,3 +38,9 @@ Finished Chapter 4, 5 (end of Tour of C++), and 6 (start of part 2 of the book).
 Finished Chapter 7 which went over pointers, arrays, and references. Maybe a good idea to review references, lvalues, rvalues, and even pointers to practice.
 
 1hr 14mins.
+
+<b>Session 3</b> 8:30pm
+
+Got motivated to start learning OpenGL/graphics programming. Started the tutorial on <b>learnopengl.com</b> to create my first app. So far just learned the basics and created a window with a minor input detection (ESC on press closes window), resizing windows, creation of windows, and clearing color buffers. Also learned the general setup with GLFW, GLAD, and CMake. Pretty fun.
+
+1hr 48mins.
