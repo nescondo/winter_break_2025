@@ -42,7 +42,7 @@ Finished Chapter 7 which went over pointers, arrays, and references. Maybe a goo
 # Day 3 - 12/15/25
 Worked on Estefany's mom's website - finished it up. Revamped a few sections and made it compatible for mobile devices. Now I just have to deploy it.
 
-Also learned a bit about OpenGL. Excited to continue on learnopengl.com.
+Got motivated to start learning OpenGL/graphics programming. Started the tutorial on <b>learnopengl.com</b> to create my first app. So far just learned the basics and created a window with a minor input detection (ESC on press closes window), resizing windows, creation of windows, and clearing color buffers. Also learned the general setup with GLFW, GLAD, and CMake. Pretty fun.
 
 ~8hrs?
 
@@ -50,4 +50,3 @@ Also learned a bit about OpenGL. Excited to continue on learnopengl.com.
 Decided to work on the Flappy Bird game I wanted to make in C++. Went through a few hurdles deciding what GUI libraries to use (went thru Qt, wxWidgets, SDLC3) but ultimately ended up with SDLC3. Tried to learn through documentation alone and some videos and got through some code, but am now going through a live demo to recreate and hopefully learn about some game dev practices.
 
 6hrs 11 min.
-
