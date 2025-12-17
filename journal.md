@@ -38,3 +38,16 @@ Finished Chapter 4, 5 (end of Tour of C++), and 6 (start of part 2 of the book).
 Finished Chapter 7 which went over pointers, arrays, and references. Maybe a good idea to review references, lvalues, rvalues, and even pointers to practice.
 
 1hr 14mins.
+
+# Day 3 - 12/15/25
+Worked on Estefany's mom's website - finished it up. Revamped a few sections and made it compatible for mobile devices. Now I just have to deploy it.
+
+Also learned a bit about OpenGL. Excited to continue on learnopengl.com.
+
+~8hrs?
+
+# Day 4 - 12/16/25
+Decided to work on the Flappy Bird game I wanted to make in C++. Went through a few hurdles deciding what GUI libraries to use (went thru Qt, wxWidgets, SDLC3) but ultimately ended up with SDLC3. Tried to learn through documentation alone and some videos and got through some code, but am now going through a live demo to recreate and hopefully learn about some game dev practices.
+
+6hrs 11 min.
+
