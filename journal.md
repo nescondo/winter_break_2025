@@ -60,7 +60,7 @@ Worked pretty much all day. Decided to take a break and watch the new Fallout ep
 Was able to deploy Mrs. Wolf's website using Vercel with a custom domain I bought from GoDaddy. Forgot to update the tab title and icon but went ahead and did that. Tested on mobile, regular resolution monitors (16:9), and ultrawide screens. A minor formatting problem with ultrawide resolutions but nothing terrible. Still has a scrollbar on the Google Form when smaller resolutions. I want to fix these problems as well as make the project structure look a bit more
 professional through refactoring in the future.
 
-[Maritza's House](https://www.martizashouse.com)
+[Maritza's House](https://www.maritzashouse.com)
 
 ~32 mins.
 
