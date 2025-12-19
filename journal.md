@@ -50,3 +50,22 @@ Got motivated to start learning OpenGL/graphics programming. Started the tutoria
 Decided to work on the Flappy Bird game I wanted to make in C++. Went through a few hurdles deciding what GUI libraries to use (went thru Qt, wxWidgets, SDLC3) but ultimately ended up with SDLC3. Tried to learn through documentation alone and some videos and got through some code, but am now going through a live demo to recreate and hopefully learn about some game dev practices.
 
 6hrs 11 min.
+
+# Day 5 - 12/17/25
+Worked pretty much all day. Decided to take a break and watch the new Fallout episode.
+
+# Day 6 - 12/18/25
+<b>Session 1</b>
+
+Was able to deploy Mrs. Wolf's website using Vercel with a custom domain I bought from GoDaddy. Forgot to update the tab title and icon but went ahead and did that. Tested on mobile, regular resolution monitors (16:9), and ultrawide screens. A minor formatting problem with ultrawide resolutions but nothing terrible. Still has a scrollbar on the Google Form when smaller resolutions. I want to fix these problems as well as make the project structure look a bit more
+professional through refactoring in the future.
+
+[Maritza's House](www.martizashouse.com)
+
+~32 mins.
+
+<b>Session 2</b>
+
+With Mrs. Wolf's website done, I started following the SDL3 demo I found on YouTube a few days ago. Decided to start over to complete it on a Windows computer. Finished the initial setup and basic A/D movement. Created a repo here: [SDL3-platformer repo](https://github.com/nescondo/SDL3-platformer).
+
+~1hr 50min.
