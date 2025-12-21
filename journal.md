@@ -94,3 +94,10 @@ idle, running, and jumping states was revamped and a sliding animation was added
 in a running state.
 
 3hrs. 15min.
+
+<b>Session 2</b>
+
+Added the parallax background along with background and foreground textures for tiles. Noticed an issue
+with the collision detection - will look into it later.
+
+~47min.
