@@ -101,3 +101,11 @@ Added the parallax background along with background and foreground textures for 
 with the collision detection - will look into it later.
 
 ~47min.
+
+<b>Session 3</b>
+
+Finished up the demo up until sound. Was able to add enemy, shooting, and fixed
+a few collision issues. Installed the 3rd party SDL_mixer library. Will get to
+learning how to use it within the project in the future.
+
+3hrs. 32min.
