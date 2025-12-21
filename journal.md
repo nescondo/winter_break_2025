@@ -80,3 +80,17 @@ Went over the project code so far and had quite a bit of trouble recreating the 
 Will continue to follow along. Also updated the repo for the sdl3-platformer.
 
 ~2hrs. 45min.
+
+# Day 9 - 12/21/25
+<b>Session 1</b>
+
+Started a lot earlier than I usually do (7am), so I got quite a bit done. Was able to actually debug
+the jumping problem. Due to the collision detection, the player is constantly in a state of colliding with
+the tile under them. This was fixed with adding a threshold (temporary) as well as a grounded boolean
+for the player. Got to experience quite a bit of debugging and adding visible bounding boxes.
+
+In addition to making the jumping mechanics work, the way the state is handled between transitioning from
+idle, running, and jumping states was revamped and a sliding animation was added when changing direction
+in a running state.
+
+3hrs. 15min.
