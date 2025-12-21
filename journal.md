@@ -69,3 +69,14 @@ professional through refactoring in the future.
 With Mrs. Wolf's website done, I started following the SDL3 demo I found on YouTube a few days ago. Decided to start over to complete it on a Windows computer. Finished the initial setup and basic A/D movement. Created a repo here: [SDL3-platformer repo](https://github.com/nescondo/SDL3-platformer).
 
 ~1hr 50min.
+
+# Day 7 - 12/19/25
+Continued to work a bit on the SDL3 demo but otherwise worked all day.
+
+~2hr
+
+# Day 8 - 12/20/25
+Went over the project code so far and had quite a bit of trouble recreating the jumping functionality.
+Will continue to follow along. Also updated the repo for the sdl3-platformer.
+
+~2hrs. 45min.
