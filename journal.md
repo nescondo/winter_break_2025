@@ -109,3 +109,15 @@ a few collision issues. Installed the 3rd party SDL_mixer library. Will get to
 learning how to use it within the project in the future.
 
 3hrs. 32min.
+
+# Day 10 - 12/22/25
+
+<b>Session 1</b>
+
+Debugged a lot of what went wrong with my SDL3 and SDL_mixer installation.
+Ended up installing from source for both libraries. Got SDL_mixer to initialize
+and playback of the background music to run. Will work on it a little more later - should probably focus on starting my portfolio website.
+
+Other than that, I worked all day today as well and got my ticket finished.
+
+3hrs. 20min.
