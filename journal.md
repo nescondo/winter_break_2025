@@ -130,3 +130,15 @@ point probably), so had to look over/debug that a bit after I deleted the entire
 over the spec, doesn't seem like it'll be too bad, though!
 
 2hrs. 13min (to include work, lots of coding today - probably around 10 hours!!!)
+
+# Day 11 - 12/23/25
+
+<b>Session 1</b>
+
+Worked on my personal website for a little longer today. Was able to get routing working but ended up
+scrapping it to add it to a singular page. Later on, I'll add my GitHub, LinkedIn, and maybe YouTube to
+replace those routes. Added a few shadcn components and fixed up the header a bit. Also created a sprite
+but not entirely sure if I want to add it to the website at this point.
+
+~4hrs.
+
