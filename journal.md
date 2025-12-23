@@ -121,3 +121,12 @@ and playback of the background music to run. Will work on it a little more later
 Other than that, I worked all day today as well and got my ticket finished.
 
 3hrs. 20min.
+
+<b>Session 2</b>
+
+Got the project running w/ Vite, React, Tailwind, React Router, and shadcn. Didn't expect to take this long to
+learn how to center a div with Tailwind lol. Also fumbled on how React is structured (too used to Angular at this
+point probably), so had to look over/debug that a bit after I deleted the entire index.html (oops). Looking
+over the spec, doesn't seem like it'll be too bad, though!
+
+2hrs. 13min (to include work, lots of coding today - probably around 10 hours!!!)
