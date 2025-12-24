@@ -142,3 +142,10 @@ but not entirely sure if I want to add it to the website at this point.
 
 ~4hrs.
 
+<b>Session 2</b>
+
+Fixed the background music not looping in my SDL3 demo. Also added sound effects
+to all the audio files I have. Didn't implement it well at all so going to have
+to refactor it at some point.
+
+1hr.
