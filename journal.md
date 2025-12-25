@@ -149,3 +149,14 @@ to all the audio files I have. Didn't implement it well at all so going to have
 to refactor it at some point.
 
 1hr.
+
+# Day 12 - 12/24/25
+
+<b>Session 1</b>
+
+Was out helping make tamales all day. Got home and finished (?) up the header for my personal website.
+Ended up adding a few nav links to my GitHub, LinkedIn, and YouTube. Lucide icons were deprecated for GitHub
+so opted for a React Icons. I also modified the header to look a bit more like HTML code to kinda showcase
+more personality I guess. Had fun adding a cursor looking animation as well.
+
+1hr 35min.
