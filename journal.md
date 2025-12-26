@@ -160,3 +160,14 @@ so opted for a React Icons. I also modified the header to look a bit more like H
 more personality I guess. Had fun adding a cursor looking animation as well.
 
 1hr 35min.
+
+# Day 13 - 12/25/25
+
+<b>Session 1</b>
+
+Busy day but managed to get some coding/research done on what I want to do with my personal website. I want it to
+resemble my daily coding environment which involves VSCode/Visual Studio and the terminal. I modified the base
+font for the website to Monaco to resemble what's used in VSCode/Visual Studio and also looked into a terminal
+react component from GitHub. Will look more into incorporating it into my website later.
+
+~1hr
